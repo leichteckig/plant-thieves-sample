@@ -17,7 +17,7 @@ This is the sample collection for the test cases I wrote in my session "PLants v
 * [Cypress learning path on API Testing](https://learn.cypress.io/advanced-cypress-concepts/integration-and-api-tests)
 * [Randomizing elements](https://glebbahmutov.com/cypress-examples/recipes/click-random-element.html): Blog Post by Gleb Bahmutov
 * [cypress-map](https://github.com/bahmutov/cypress-map) plugin
-* [Fast Check]([https://github.com/bahmutov/cypress-map](https://github.com/dubzzz/fast-check)
+* [Fast Check](https://github.com/dubzzz/fast-check)
 * [JSVerify](https://github.com/jsverify/jsverify)
 * [Testing Web Apps w/ Cypress & OWASP ZAP](https://github.com/jonas-pietzsch/security-tests-with-owasp-zap-cypress)
 * [Free for Open Source Application Security Tools](https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools)
