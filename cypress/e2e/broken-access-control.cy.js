@@ -1,5 +1,5 @@
 describe('Broken access control', () => {
-    xit('should not navigate to admin section...', () => {
+    it('should not navigate to admin section...', () => {
       cy.visit('http://localhost:3000');
 
       cy.handleCookieAndDialogues();
